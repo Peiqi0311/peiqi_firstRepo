@@ -1,7 +1,7 @@
 # scatter plot matrix
 dat <- read.table("spellman.txt",header=T,row.names=1)
 dat <- as.data.frame(dat);
-
+# Peiqi is hamster
 # other data sets in R to use
 library(Biobase);	library(annotate);	library(golubEsets);
 data(golubTrain);	 data(golubTest); 	data(geneData);
